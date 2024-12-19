@@ -30,5 +30,5 @@
 - [ ] emoji
 - [ ] block user
 - [ ] delete msg
-- [ ] in group chat typing with name
+- [ ] in group chat typing with name`
 - [ ] on enter press send message
